@@ -8,7 +8,7 @@
   "name": "REENA R",
   "title": "Aspiring Full Stack Developer",
   "contact": {
-    "email": "reeff@gmail.com",
+    "email": "vinureena@2017@gmail.com",
     "address": "No.12 Washington Street, New York"
   },
   "summary": "Recent B.Tech graduate in Textile Technology with a strong desire to pursue a career in the IT field. Eager to apply problem-solving skills as a Full Stack Developer.",
