@@ -1,1 +1,25 @@
+Difference between window, screen and document in Javascript
 
+In JavaScript, window, screen, and document are objects that are part of the Document Object Model (DOM), and they are used to interact with various aspects of a web page. Here's a brief explanation of the differences between them:
+
+1. window Object:
+
+The window object represents the global context for a web page, and it is the top-level object in the client-side JavaScript environment.
+It provides access to various properties and methods that control the browser window and its behavior. For example, you can use it to open new browser windows, set timeouts, and manage the history and location of the current page.
+It also contains global variables and functions and acts as the global scope for JavaScript code running in a web page.
+You can access the window object directly without prefixing it, and it's often used implicitly.
+
+screen Object:
+
+The screen object represents the screen or monitor on which a web page is being displayed.
+It provides information about the screen's dimensions, such as width, height, color depth, and available screen space.
+You can use the screen object to make decisions related to the screen size or to position windows or elements on the screen.
+
+document Object:
+
+The document object represents the HTML document being displayed in a web browser.
+It provides access to the structure and content of the web page, allowing you to manipulate and interact with the DOM.
+You can use the document object to access and modify elements, create new elements, change content, and respond to events like clicks or form submissions.
+It's the primary object for working with the content and structure of a web page.
+
+In summary, window is the global object for managing the browser window, screen provides information about the user's screen, and document is the object that represents the structure and content of the current web page, allowing you to interact with its elements and content. Each serves a distinct role in client-side web development.
